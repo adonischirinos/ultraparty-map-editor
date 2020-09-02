@@ -1,0 +1,1 @@
+# ultraparty-map-editor
