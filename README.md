@@ -16,11 +16,12 @@ El editor de mapas oficial del servidor UltraParty FreeRoam del juego San Andrea
 3. Abre SA-MP y añade a favoritos tu ip local "127.0.0.1"
 4. Entra y disfruta creando tus mapas favoritos!
 
+## Ayuda
+
+Podrás ver los comandos disponibles con /comandos y /ayuda.
 
 ## Créditos
 
 Adonis Chirinos
 
 RedFusion [Fusez's Map Editor] (https://forum.sa-mp.com/showthread.php?t=648101)
-
-Podrás ver los comandos disponibles con /comandos y /ayuda.
