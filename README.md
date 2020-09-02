@@ -20,6 +20,7 @@ El editor de mapas oficial del servidor UltraParty FreeRoam del juego San Andrea
 ## Créditos
 
 Adonis Chirinos
+
 RedFusion [Fusez's Map Editor] (https://forum.sa-mp.com/showthread.php?t=648101)
 
 Podrás ver los comandos disponibles con /comandos y /ayuda.
