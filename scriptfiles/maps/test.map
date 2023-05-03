@@ -1,0 +1,7 @@
+new g_Object[6];
+g_Object[0] = CreateDynamicObject(3437, 1441.7336, 2831.9179, 9.5254, 90.0000, 0.0000, -0.2999); //ballypllr01_lvs
+g_Object[1] = CreateDynamicObject(3437, 1454.4339, 2831.8466, 9.5254, 90.0000, 0.0000, -0.2999); //ballypllr01_lvs
+g_Object[2] = CreateDynamicObject(3437, 1448.1234, 2836.8271, 9.5254, 90.0000, 0.0000, 90.0000); //ballypllr01_lvs
+g_Object[3] = CreateDynamicObject(3437, 1448.1234, 2826.8242, 9.5254, 90.0000, 0.0000, 90.0000); //ballypllr01_lvs
+g_Object[4] = CreateDynamicObject(2780, 1444.5216, 2832.0917, 9.9034, 0.0000, 0.0000, 0.0000); //CJ_SMOKE_MACH
+g_Object[5] = CreateDynamicObject(2780, 1451.0509, 2832.0917, 9.9034, 0.0000, 0.0000, 0.0000); //CJ_SMOKE_MACH
